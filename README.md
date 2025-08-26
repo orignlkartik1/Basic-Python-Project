@@ -24,5 +24,5 @@ Welcome to my collection of beginner-friendly Python projects! This repository i
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/OpenCV-Library.git
-cd OpenCV-Library
+git clone https://github.com/orignlkartik1/Basic-Python-Project.git
+cd Basic-Python-Project

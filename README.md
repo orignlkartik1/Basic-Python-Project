@@ -17,4 +17,12 @@ Welcome to my collection of beginner-friendly Python projects! This repository i
 - Python 3.x installed  
 - Any editor or IDE
 
-## Feel free to conributing
+
+---
+## Feel free to Contributing
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/your-username/OpenCV-Library.git
+cd OpenCV-Library
